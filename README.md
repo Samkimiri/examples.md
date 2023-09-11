@@ -1,4 +1,4 @@
-# examples.md
+# examples
 Simple examples
 let count = 0
 
